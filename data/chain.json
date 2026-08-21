@@ -1,0 +1,101 @@
+{
+  "issuerRegistry": [
+    {
+      "id": "BITM",
+      "name": "Birla Institute of Technology, Mesra",
+      "publicKey": "0x2d0defa81a90c2737952b607141ea80b69d9f7cfa2ee53ffb5f24b3f99b10fb5"
+    }
+  ],
+  "batches": [
+    {
+      "root": "0x08ae0038f2b00a7a016687e6b5c761f479de7a3f06e2ed4164b791c6c5503ba9",
+      "semesterId": "2026-AUTUMN",
+      "issuerId": "BITM",
+      "timestamp": "2026-11-28T09:15:00.000Z",
+      "leafCount": 256,
+      "depth": 8,
+      "signature": "0x1d2439b31eedc5b061530fb66b0109819284d257e6e2d1745cdd5cb521b632a1"
+    },
+    {
+      "root": "0x05a2bfe08c1ec32c0f6aba64a034f7185a33582a9c53e5224b135bd53f167a17",
+      "semesterId": "2027-SPRING",
+      "issuerId": "BITM",
+      "timestamp": "2026-08-20T09:41:06.987Z",
+      "leafCount": 32,
+      "depth": 5,
+      "signature": "0x1ed4a733d3997019d97534e3947e025ea1cdcc6ddf8f78d090614ef6dff59ba6"
+    },
+    {
+      "root": "0x2a68782f8cced3ceeb9ea58f4b7c186e359e212dc102ba9f1a5bbe70f273a8c8",
+      "semesterId": "2027-SPRING",
+      "issuerId": "BITM",
+      "timestamp": "2026-08-20T10:00:15.207Z",
+      "leafCount": 32,
+      "depth": 5,
+      "signature": "0x15e508f72400a2e433b896796a559ca92d843468c3d5cbd44a6d0e61793878d7"
+    },
+    {
+      "root": "0x151259d7ea523fa5ba7c3eccbb245b9036af536f74a66ee833512c0bc6ab4686",
+      "semesterId": "2027-SPRING",
+      "issuerId": "BITM",
+      "timestamp": "2026-08-20T10:00:55.441Z",
+      "leafCount": 32,
+      "depth": 5,
+      "signature": "0x301bf4a35c44a3c19b096b139c7f6af4d0e7d9aa12589b928dbbaf15857bbccb"
+    },
+    {
+      "root": "0x1f5e74f4b9207eb941a2e97d97d0ca9a08642a07c724fc02c4a82f0bbf9dd192",
+      "semesterId": "2027-SPRING",
+      "issuerId": "BITM",
+      "timestamp": "2026-08-20T10:12:17.078Z",
+      "leafCount": 32,
+      "depth": 5,
+      "signature": "0x1cfd54d8907f7a64c7e7a98023b8289abc952750be7093d12d268c7eebf2f0f6"
+    },
+    {
+      "root": "0x103c23e8d9756d4fcae88e31a1962f665ebc83681adefb5ed3966653541e7866",
+      "semesterId": "2027-SPRING_TEST",
+      "issuerId": "BITM",
+      "timestamp": "2026-08-20T10:17:47.951Z",
+      "leafCount": 32,
+      "depth": 5,
+      "signature": "0x1337d5159f1d9aec0479bb594664d4181c226fdd17e75156b74b00a0a2ba58e3"
+    },
+    {
+      "root": "0x2d99dee857cf3a95541aaaf1cf7bd3a525f7d3876ebdb870516a92ca0ff666d1",
+      "semesterId": "2027-SPRING",
+      "issuerId": "BITM",
+      "timestamp": "2026-08-20T10:18:06.400Z",
+      "leafCount": 32,
+      "depth": 5,
+      "signature": "0x0b5ff01d58ba85b70a68f7853e301581c3c145c3d0682dadaef82b75051b7a10"
+    },
+    {
+      "root": "0x0df6baf0d40d687701cc18feedd12636043cbe77d61c73b0980ab67d085111eb",
+      "semesterId": "2027-AUTUMNNN",
+      "issuerId": "BITM",
+      "timestamp": "2026-08-20T10:22:39.243Z",
+      "leafCount": 32,
+      "depth": 5,
+      "signature": "0x269655463999736103471b10a7c3070ea781ec587deee4e350602fc97411e979"
+    },
+    {
+      "root": "0x1b5b8c39812a456d65dd763682ca6451322c5164125c9666cb72af819a918434",
+      "semesterId": "2027-xyz",
+      "issuerId": "BITM",
+      "timestamp": "2026-08-20T10:37:44.479Z",
+      "leafCount": 32,
+      "depth": 5,
+      "signature": "0x053ea0c847bb97d19db9bbfc46ae547277e8094db80b75bf28ac3106714ed5f4"
+    }
+  ],
+  "revoked": [
+    {
+      "leaf": "0x22935c41d47b6e8139c1e01f23bbc14395cf08a9a7d4d290be56d0be0b835b3b",
+      "root": "0x2a68782f8cced3ceeb9ea58f4b7c186e359e212dc102ba9f1a5bbe70f273a8c8",
+      "semesterId": "2027-SPRING",
+      "reason": "Revoked by registrar (BTECH/27431/23)",
+      "revokedAt": "2026-08-20T10:00:39.703Z"
+    }
+  ]
+}

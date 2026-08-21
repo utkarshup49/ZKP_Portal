@@ -1,0 +1,31 @@
+{
+  "name": "zk-credentials",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "compile:lib": "tsc lib/poseidon.ts lib/merkle.ts lib/credential.ts lib/chain.ts lib/prover.ts --outDir .tmp --module commonjs --target es2020 --skipLibCheck --esModuleInterop --lib es2020,dom",
+    "gen:sample": "npm run compile:lib && node scripts/generate-sample-data.cjs",
+    "reset:chain": "npm run compile:lib && node scripts/seed-chain.cjs",
+    "check:e2e": "npm run compile:lib && node scripts/e2e-check.cjs",
+    "check:http": "npm run compile:lib && node scripts/integration-check.cjs"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "poseidon-lite": "^0.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "typescript": "^5.5.3"
+  }
+}

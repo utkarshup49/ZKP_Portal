@@ -1,0 +1,21 @@
+{
+  "issuerRegistry": [
+    {
+      "id": "BITM",
+      "name": "Birla Institute of Technology, Mesra",
+      "publicKey": "0x2d0defa81a90c2737952b607141ea80b69d9f7cfa2ee53ffb5f24b3f99b10fb5"
+    }
+  ],
+  "batches": [
+    {
+      "root": "0x08ae0038f2b00a7a016687e6b5c761f479de7a3f06e2ed4164b791c6c5503ba9",
+      "semesterId": "2026-AUTUMN",
+      "issuerId": "BITM",
+      "timestamp": "2026-11-28T09:15:00.000Z",
+      "leafCount": 256,
+      "depth": 8,
+      "signature": "0x1d2439b31eedc5b061530fb66b0109819284d257e6e2d1745cdd5cb521b632a1"
+    }
+  ],
+  "revoked": []
+}
