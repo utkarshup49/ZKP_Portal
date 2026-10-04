@@ -1,0 +1,23 @@
+[
+  {
+    "label": "Groth16",
+    "proof_kib": 0.125,
+    "verify_ms": 2.0,
+    "source": "https://eprint.iacr.org/2024/1914",
+    "note": "Reported comparison point: 128-byte proof and 2 ms verification; different circuit and hardware."
+  },
+  {
+    "label": "Bulletproofs",
+    "proof_kib": 0.65625,
+    "verify_ms": 1.51897,
+    "source": "https://eprint.iacr.org/2020/735",
+    "note": "Reported baseline for one 64-bit range proof: 672 bytes and 1.518970 ms; different statement and hardware."
+  },
+  {
+    "label": "Reference STARK",
+    "proof_kib": 110,
+    "verify_ms": 4.4,
+    "source": "https://github.com/facebook/winterfell",
+    "note": "Winterfell 123-bit Lamport+ benchmark for 64 signatures; different computation and hardware."
+  }
+]

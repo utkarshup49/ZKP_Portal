@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-10-04T14:27:38.578Z",
+  "command_mode": "full",
+  "os": "Windows_NT 10.0.26200 x64",
+  "cpu": "12th Gen Intel(R) Core(TM) i5-1235U",
+  "logical_cores": 12,
+  "total_ram_bytes": 16876888064,
+  "node": "v22.23.3",
+  "genstark": "^0.7.6",
+  "field": "2^128 - 9*2^32 + 1",
+  "hash": "Poseidon t=6, alpha=5, 8 full + 55 partial rounds",
+  "stark_options": {
+    "hashAlgorithm": "blake2s256",
+    "extensionFactor": 32,
+    "exeQueryCount": 44,
+    "friQueryCount": 20,
+    "wasm": true
+  },
+  "repetitions": 30,
+  "scaling_repetitions": 3,
+  "warmups": 1,
+  "cdf_requests": 280,
+  "cdf_concurrency": 8,
+  "dataset": "data/sample-students.csv; BTECH/27431/23; CGPA 8.34",
+  "backend_note": "Real FRI STARK proofs. The benchmark field/hash parameterization is genSTARK's optimized 128-bit Poseidon example, not the application's BN254 poseidon-lite instance."
+}

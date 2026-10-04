@@ -1,0 +1,1962 @@
+[
+  {
+    "request_id": 0,
+    "concurrency": 8,
+    "latency_ms": 177.56279999995604,
+    "service_ms": 176.9627999998629,
+    "valid": true
+  },
+  {
+    "request_id": 1,
+    "concurrency": 8,
+    "latency_ms": 171.84299999987707,
+    "service_ms": 170.91330000013113,
+    "valid": true
+  },
+  {
+    "request_id": 2,
+    "concurrency": 8,
+    "latency_ms": 196.9928999999538,
+    "service_ms": 196.3078000000678,
+    "valid": true
+  },
+  {
+    "request_id": 3,
+    "concurrency": 8,
+    "latency_ms": 177.46830000006594,
+    "service_ms": 176.78729999996722,
+    "valid": true
+  },
+  {
+    "request_id": 4,
+    "concurrency": 8,
+    "latency_ms": 174.12599999993108,
+    "service_ms": 173.27490000007674,
+    "valid": true
+  },
+  {
+    "request_id": 5,
+    "concurrency": 8,
+    "latency_ms": 184.75219999998808,
+    "service_ms": 184.07489999989048,
+    "valid": true
+  },
+  {
+    "request_id": 6,
+    "concurrency": 8,
+    "latency_ms": 186.52499999990687,
+    "service_ms": 185.75679999985732,
+    "valid": true
+  },
+  {
+    "request_id": 7,
+    "concurrency": 8,
+    "latency_ms": 179.72589999996126,
+    "service_ms": 178.99689999991097,
+    "valid": true
+  },
+  {
+    "request_id": 8,
+    "concurrency": 8,
+    "latency_ms": 313.780199999921,
+    "service_ms": 141.50350000010803,
+    "valid": true
+  },
+  {
+    "request_id": 9,
+    "concurrency": 8,
+    "latency_ms": 310.5755000000354,
+    "service_ms": 135.83679999993183,
+    "valid": true
+  },
+  {
+    "request_id": 10,
+    "concurrency": 8,
+    "latency_ms": 317.5263000000268,
+    "service_ms": 139.84349999995902,
+    "valid": true
+  },
+  {
+    "request_id": 11,
+    "concurrency": 8,
+    "latency_ms": 316.405700000003,
+    "service_ms": 138.61620000004768,
+    "valid": true
+  },
+  {
+    "request_id": 12,
+    "concurrency": 8,
+    "latency_ms": 336.47120000002906,
+    "service_ms": 156.46280000009574,
+    "valid": true
+  },
+  {
+    "request_id": 13,
+    "concurrency": 8,
+    "latency_ms": 325.3283999999985,
+    "service_ms": 139.44189999997616,
+    "valid": true
+  },
+  {
+    "request_id": 14,
+    "concurrency": 8,
+    "latency_ms": 338.8892000000924,
+    "service_ms": 152.0771999999415,
+    "valid": true
+  },
+  {
+    "request_id": 15,
+    "concurrency": 8,
+    "latency_ms": 335.72179999994114,
+    "service_ms": 138.42250000010245,
+    "valid": true
+  },
+  {
+    "request_id": 16,
+    "concurrency": 8,
+    "latency_ms": 469.3392000000458,
+    "service_ms": 158.2206999999471,
+    "valid": true
+  },
+  {
+    "request_id": 17,
+    "concurrency": 8,
+    "latency_ms": 496.81529999990016,
+    "service_ms": 182.70400000014342,
+    "valid": true
+  },
+  {
+    "request_id": 18,
+    "concurrency": 8,
+    "latency_ms": 466.9291999998968,
+    "service_ms": 150.18929999996908,
+    "valid": true
+  },
+  {
+    "request_id": 19,
+    "concurrency": 8,
+    "latency_ms": 481.4532000001054,
+    "service_ms": 162.62120000016876,
+    "valid": true
+  },
+  {
+    "request_id": 20,
+    "concurrency": 8,
+    "latency_ms": 486.2249000000302,
+    "service_ms": 160.38919999985956,
+    "valid": true
+  },
+  {
+    "request_id": 21,
+    "concurrency": 8,
+    "latency_ms": 492.1976999999024,
+    "service_ms": 155.35459999996237,
+    "valid": true
+  },
+  {
+    "request_id": 22,
+    "concurrency": 8,
+    "latency_ms": 512.0568999999668,
+    "service_ms": 174.97540000011213,
+    "valid": true
+  },
+  {
+    "request_id": 23,
+    "concurrency": 8,
+    "latency_ms": 487.71549999993294,
+    "service_ms": 148.55729999998584,
+    "valid": true
+  },
+  {
+    "request_id": 24,
+    "concurrency": 8,
+    "latency_ms": 606.8200000000652,
+    "service_ms": 139.52720000012778,
+    "valid": true
+  },
+  {
+    "request_id": 25,
+    "concurrency": 8,
+    "latency_ms": 617.4613999999128,
+    "service_ms": 147.7776999999769,
+    "valid": true
+  },
+  {
+    "request_id": 26,
+    "concurrency": 8,
+    "latency_ms": 629.3543000000063,
+    "service_ms": 147.64770000008866,
+    "valid": true
+  },
+  {
+    "request_id": 27,
+    "concurrency": 8,
+    "latency_ms": 630.7850999999791,
+    "service_ms": 144.28040000004694,
+    "valid": true
+  },
+  {
+    "request_id": 28,
+    "concurrency": 8,
+    "latency_ms": 661.8792999999132,
+    "service_ms": 173.88400000007823,
+    "valid": true
+  },
+  {
+    "request_id": 29,
+    "concurrency": 8,
+    "latency_ms": 644.8096000000369,
+    "service_ms": 152.36489999992773,
+    "valid": true
+  },
+  {
+    "request_id": 30,
+    "concurrency": 8,
+    "latency_ms": 634.2483000000939,
+    "service_ms": 137.24310000007972,
+    "valid": true
+  },
+  {
+    "request_id": 31,
+    "concurrency": 8,
+    "latency_ms": 664.3231999999844,
+    "service_ms": 151.88610000000335,
+    "valid": true
+  },
+  {
+    "request_id": 32,
+    "concurrency": 8,
+    "latency_ms": 724.0849999999627,
+    "service_ms": 116.3640000000596,
+    "valid": true
+  },
+  {
+    "request_id": 33,
+    "concurrency": 8,
+    "latency_ms": 733.1310999998823,
+    "service_ms": 115.2261999999173,
+    "valid": true
+  },
+  {
+    "request_id": 34,
+    "concurrency": 8,
+    "latency_ms": 746.3452999999281,
+    "service_ms": 116.52520000003278,
+    "valid": true
+  },
+  {
+    "request_id": 35,
+    "concurrency": 8,
+    "latency_ms": 767.3273000000045,
+    "service_ms": 136.02960000000894,
+    "valid": true
+  },
+  {
+    "request_id": 36,
+    "concurrency": 8,
+    "latency_ms": 754.6022999999113,
+    "service_ms": 119.87619999982417,
+    "valid": true
+  },
+  {
+    "request_id": 37,
+    "concurrency": 8,
+    "latency_ms": 778.0759000000544,
+    "service_ms": 132.71280000009574,
+    "valid": true
+  },
+  {
+    "request_id": 38,
+    "concurrency": 8,
+    "latency_ms": 801.9947999999858,
+    "service_ms": 139.61800000001676,
+    "valid": true
+  },
+  {
+    "request_id": 39,
+    "concurrency": 8,
+    "latency_ms": 795.1182999999728,
+    "service_ms": 130.3668000001926,
+    "valid": true
+  },
+  {
+    "request_id": 40,
+    "concurrency": 8,
+    "latency_ms": 866.527599999914,
+    "service_ms": 142.188700000057,
+    "valid": true
+  },
+  {
+    "request_id": 41,
+    "concurrency": 8,
+    "latency_ms": 864.4712000000291,
+    "service_ms": 131.05909999995492,
+    "valid": true
+  },
+  {
+    "request_id": 42,
+    "concurrency": 8,
+    "latency_ms": 876.6455000001006,
+    "service_ms": 129.2015000001993,
+    "valid": true
+  },
+  {
+    "request_id": 43,
+    "concurrency": 8,
+    "latency_ms": 882.8555000000633,
+    "service_ms": 127.82120000012219,
+    "valid": true
+  },
+  {
+    "request_id": 44,
+    "concurrency": 8,
+    "latency_ms": 903.3606000000145,
+    "service_ms": 135.72279999987222,
+    "valid": true
+  },
+  {
+    "request_id": 45,
+    "concurrency": 8,
+    "latency_ms": 899.9000999999698,
+    "service_ms": 121.51859999983571,
+    "valid": true
+  },
+  {
+    "request_id": 46,
+    "concurrency": 8,
+    "latency_ms": 923.0245999998879,
+    "service_ms": 127.45879999990575,
+    "valid": true
+  },
+  {
+    "request_id": 47,
+    "concurrency": 8,
+    "latency_ms": 938.6343000000343,
+    "service_ms": 136.2902999999933,
+    "valid": true
+  },
+  {
+    "request_id": 48,
+    "concurrency": 8,
+    "latency_ms": 986.7606999999844,
+    "service_ms": 122.04819999984466,
+    "valid": true
+  },
+  {
+    "request_id": 49,
+    "concurrency": 8,
+    "latency_ms": 992.7782000000589,
+    "service_ms": 126.0187000001315,
+    "valid": true
+  },
+  {
+    "request_id": 50,
+    "concurrency": 8,
+    "latency_ms": 998.782700000098,
+    "service_ms": 121.84970000013709,
+    "valid": true
+  },
+  {
+    "request_id": 51,
+    "concurrency": 8,
+    "latency_ms": 1000.314100000076,
+    "service_ms": 117.28200000012293,
+    "valid": true
+  },
+  {
+    "request_id": 52,
+    "concurrency": 8,
+    "latency_ms": 1028.0693999999203,
+    "service_ms": 126.91389999981038,
+    "valid": true
+  },
+  {
+    "request_id": 53,
+    "concurrency": 8,
+    "latency_ms": 1028.1300999999512,
+    "service_ms": 124.0272999999579,
+    "valid": true
+  },
+  {
+    "request_id": 54,
+    "concurrency": 8,
+    "latency_ms": 1052.44020000007,
+    "service_ms": 129.09290000004694,
+    "valid": true
+  },
+  {
+    "request_id": 55,
+    "concurrency": 8,
+    "latency_ms": 1081.619699999923,
+    "service_ms": 142.2715999998618,
+    "valid": true
+  },
+  {
+    "request_id": 56,
+    "concurrency": 8,
+    "latency_ms": 1119.4302000000607,
+    "service_ms": 131.60639999993145,
+    "valid": true
+  },
+  {
+    "request_id": 57,
+    "concurrency": 8,
+    "latency_ms": 1134.433699999936,
+    "service_ms": 140.7693000000436,
+    "valid": true
+  },
+  {
+    "request_id": 58,
+    "concurrency": 8,
+    "latency_ms": 1132.432899999898,
+    "service_ms": 133.39710000017658,
+    "valid": true
+  },
+  {
+    "request_id": 59,
+    "concurrency": 8,
+    "latency_ms": 1127.1315999999642,
+    "service_ms": 125.9311999999918,
+    "valid": true
+  },
+  {
+    "request_id": 60,
+    "concurrency": 8,
+    "latency_ms": 1173.0844999998808,
+    "service_ms": 144.33829999994487,
+    "valid": true
+  },
+  {
+    "request_id": 61,
+    "concurrency": 8,
+    "latency_ms": 1163.7386000000406,
+    "service_ms": 135.28230000007898,
+    "valid": true
+  },
+  {
+    "request_id": 62,
+    "concurrency": 8,
+    "latency_ms": 1183.6266999999061,
+    "service_ms": 129.78419999987818,
+    "valid": true
+  },
+  {
+    "request_id": 63,
+    "concurrency": 8,
+    "latency_ms": 1208.185599999968,
+    "service_ms": 124.47600000002421,
+    "valid": true
+  },
+  {
+    "request_id": 64,
+    "concurrency": 8,
+    "latency_ms": 1247.9211999999825,
+    "service_ms": 128.2461000001058,
+    "valid": true
+  },
+  {
+    "request_id": 65,
+    "concurrency": 8,
+    "latency_ms": 1251.497399999993,
+    "service_ms": 124.08759999996983,
+    "valid": true
+  },
+  {
+    "request_id": 66,
+    "concurrency": 8,
+    "latency_ms": 1261.4546999998856,
+    "service_ms": 128.0879000001587,
+    "valid": true
+  },
+  {
+    "request_id": 67,
+    "concurrency": 8,
+    "latency_ms": 1260.9358000000939,
+    "service_ms": 126.20530000003055,
+    "valid": true
+  },
+  {
+    "request_id": 68,
+    "concurrency": 8,
+    "latency_ms": 1316.997599999886,
+    "service_ms": 152.999199999962,
+    "valid": true
+  },
+  {
+    "request_id": 69,
+    "concurrency": 8,
+    "latency_ms": 1309.776099999901,
+    "service_ms": 136.43350000004284,
+    "valid": true
+  },
+  {
+    "request_id": 70,
+    "concurrency": 8,
+    "latency_ms": 1319.4936999999918,
+    "service_ms": 135.61510000005364,
+    "valid": true
+  },
+  {
+    "request_id": 71,
+    "concurrency": 8,
+    "latency_ms": 1353.777999999933,
+    "service_ms": 145.25969999982044,
+    "valid": true
+  },
+  {
+    "request_id": 72,
+    "concurrency": 8,
+    "latency_ms": 1383.5870000000577,
+    "service_ms": 135.38669999991544,
+    "valid": true
+  },
+  {
+    "request_id": 73,
+    "concurrency": 8,
+    "latency_ms": 1384.3504999999423,
+    "service_ms": 132.53619999997318,
+    "valid": true
+  },
+  {
+    "request_id": 74,
+    "concurrency": 8,
+    "latency_ms": 1410.9412000000011,
+    "service_ms": 149.67639999999665,
+    "valid": true
+  },
+  {
+    "request_id": 75,
+    "concurrency": 8,
+    "latency_ms": 1395.9358000000939,
+    "service_ms": 134.20280000008643,
+    "valid": true
+  },
+  {
+    "request_id": 76,
+    "concurrency": 8,
+    "latency_ms": 1451.4650000000838,
+    "service_ms": 141.39950000005774,
+    "valid": true
+  },
+  {
+    "request_id": 77,
+    "concurrency": 8,
+    "latency_ms": 1463.5579999999609,
+    "service_ms": 146.25029999995604,
+    "valid": true
+  },
+  {
+    "request_id": 78,
+    "concurrency": 8,
+    "latency_ms": 1468.1210000000428,
+    "service_ms": 148.37679999996908,
+    "valid": true
+  },
+  {
+    "request_id": 79,
+    "concurrency": 8,
+    "latency_ms": 1487.40830000001,
+    "service_ms": 133.26860000006855,
+    "valid": true
+  },
+  {
+    "request_id": 80,
+    "concurrency": 8,
+    "latency_ms": 1518.4958999999799,
+    "service_ms": 133.54970000009052,
+    "valid": true
+  },
+  {
+    "request_id": 81,
+    "concurrency": 8,
+    "latency_ms": 1517.0845999999437,
+    "service_ms": 131.51029999996535,
+    "valid": true
+  },
+  {
+    "request_id": 82,
+    "concurrency": 8,
+    "latency_ms": 1526.8019000000786,
+    "service_ms": 130.61590000009164,
+    "valid": true
+  },
+  {
+    "request_id": 83,
+    "concurrency": 8,
+    "latency_ms": 1541.4183000000194,
+    "service_ms": 129.3951999999117,
+    "valid": true
+  },
+  {
+    "request_id": 84,
+    "concurrency": 8,
+    "latency_ms": 1593.220699999947,
+    "service_ms": 140.54229999985546,
+    "valid": true
+  },
+  {
+    "request_id": 85,
+    "concurrency": 8,
+    "latency_ms": 1600.5253999999259,
+    "service_ms": 135.84550000005402,
+    "valid": true
+  },
+  {
+    "request_id": 86,
+    "concurrency": 8,
+    "latency_ms": 1609.5773000000045,
+    "service_ms": 139.34749999991618,
+    "valid": true
+  },
+  {
+    "request_id": 87,
+    "concurrency": 8,
+    "latency_ms": 1628.0353999999352,
+    "service_ms": 139.16479999991134,
+    "valid": true
+  },
+  {
+    "request_id": 88,
+    "concurrency": 8,
+    "latency_ms": 1658.811900000088,
+    "service_ms": 140.62650000001304,
+    "valid": true
+  },
+  {
+    "request_id": 89,
+    "concurrency": 8,
+    "latency_ms": 1662.2944000000134,
+    "service_ms": 143.5474000000395,
+    "valid": true
+  },
+  {
+    "request_id": 90,
+    "concurrency": 8,
+    "latency_ms": 1659.5537000000477,
+    "service_ms": 132.47629999998026,
+    "valid": true
+  },
+  {
+    "request_id": 91,
+    "concurrency": 8,
+    "latency_ms": 1692.2060000000056,
+    "service_ms": 148.8676999998279,
+    "valid": true
+  },
+  {
+    "request_id": 92,
+    "concurrency": 8,
+    "latency_ms": 1730.2904000000563,
+    "service_ms": 136.80630000005476,
+    "valid": true
+  },
+  {
+    "request_id": 93,
+    "concurrency": 8,
+    "latency_ms": 1741.4325999999419,
+    "service_ms": 140.4488999999594,
+    "valid": true
+  },
+  {
+    "request_id": 94,
+    "concurrency": 8,
+    "latency_ms": 1749.5572999999858,
+    "service_ms": 137.75290000019595,
+    "valid": true
+  },
+  {
+    "request_id": 95,
+    "concurrency": 8,
+    "latency_ms": 1762.093600000022,
+    "service_ms": 133.69679999980144,
+    "valid": true
+  },
+  {
+    "request_id": 96,
+    "concurrency": 8,
+    "latency_ms": 1810.1935000000522,
+    "service_ms": 150.7039999999106,
+    "valid": true
+  },
+  {
+    "request_id": 97,
+    "concurrency": 8,
+    "latency_ms": 1803.9425999999512,
+    "service_ms": 144.10840000002645,
+    "valid": true
+  },
+  {
+    "request_id": 98,
+    "concurrency": 8,
+    "latency_ms": 1802.8682999999728,
+    "service_ms": 139.10379999992438,
+    "valid": true
+  },
+  {
+    "request_id": 99,
+    "concurrency": 8,
+    "latency_ms": 1845.3267999999225,
+    "service_ms": 150.96400000015274,
+    "valid": true
+  },
+  {
+    "request_id": 100,
+    "concurrency": 8,
+    "latency_ms": 1871.7594000000972,
+    "service_ms": 141.11919999984093,
+    "valid": true
+  },
+  {
+    "request_id": 101,
+    "concurrency": 8,
+    "latency_ms": 1878.528699999908,
+    "service_ms": 136.38119999994524,
+    "valid": true
+  },
+  {
+    "request_id": 102,
+    "concurrency": 8,
+    "latency_ms": 1920.3233000000473,
+    "service_ms": 170.4203999999445,
+    "valid": true
+  },
+  {
+    "request_id": 103,
+    "concurrency": 8,
+    "latency_ms": 1931.5079000000842,
+    "service_ms": 169.09429999999702,
+    "valid": true
+  },
+  {
+    "request_id": 104,
+    "concurrency": 8,
+    "latency_ms": 1941.0389000000432,
+    "service_ms": 137.85710000013933,
+    "valid": true
+  },
+  {
+    "request_id": 105,
+    "concurrency": 8,
+    "latency_ms": 1934.49869999988,
+    "service_ms": 130.18369999993593,
+    "valid": true
+  },
+  {
+    "request_id": 106,
+    "concurrency": 8,
+    "latency_ms": 1945.7619000000414,
+    "service_ms": 135.2043999999296,
+    "valid": true
+  },
+  {
+    "request_id": 107,
+    "concurrency": 8,
+    "latency_ms": 2011.9432999999262,
+    "service_ms": 166.28370000002906,
+    "valid": true
+  },
+  {
+    "request_id": 108,
+    "concurrency": 8,
+    "latency_ms": 2003.0049999998882,
+    "service_ms": 130.94980000006035,
+    "valid": true
+  },
+  {
+    "request_id": 109,
+    "concurrency": 8,
+    "latency_ms": 2013.2256000000052,
+    "service_ms": 134.42889999994077,
+    "valid": true
+  },
+  {
+    "request_id": 110,
+    "concurrency": 8,
+    "latency_ms": 2051.501600000076,
+    "service_ms": 130.77230000006966,
+    "valid": true
+  },
+  {
+    "request_id": 111,
+    "concurrency": 8,
+    "latency_ms": 2060.215799999889,
+    "service_ms": 128.31409999984317,
+    "valid": true
+  },
+  {
+    "request_id": 112,
+    "concurrency": 8,
+    "latency_ms": 2056.377000000095,
+    "service_ms": 121.32039999985136,
+    "valid": true
+  },
+  {
+    "request_id": 113,
+    "concurrency": 8,
+    "latency_ms": 2064.2364999998827,
+    "service_ms": 122.94709999999031,
+    "valid": true
+  },
+  {
+    "request_id": 114,
+    "concurrency": 8,
+    "latency_ms": 2077.1070999999065,
+    "service_ms": 131.08789999992587,
+    "valid": true
+  },
+  {
+    "request_id": 115,
+    "concurrency": 8,
+    "latency_ms": 2121.8811999999452,
+    "service_ms": 118.61129999998957,
+    "valid": true
+  },
+  {
+    "request_id": 116,
+    "concurrency": 8,
+    "latency_ms": 2135.56930000009,
+    "service_ms": 123.37760000000708,
+    "valid": true
+  },
+  {
+    "request_id": 117,
+    "concurrency": 8,
+    "latency_ms": 2134.8575999999885,
+    "service_ms": 121.40999999991618,
+    "valid": true
+  },
+  {
+    "request_id": 118,
+    "concurrency": 8,
+    "latency_ms": 2166.409400000004,
+    "service_ms": 114.63629999989644,
+    "valid": true
+  },
+  {
+    "request_id": 119,
+    "concurrency": 8,
+    "latency_ms": 2167.8026999998838,
+    "service_ms": 111.08370000007562,
+    "valid": true
+  },
+  {
+    "request_id": 120,
+    "concurrency": 8,
+    "latency_ms": 2179.215899999952,
+    "service_ms": 118.80779999983497,
+    "valid": true
+  },
+  {
+    "request_id": 121,
+    "concurrency": 8,
+    "latency_ms": 2178.845200000098,
+    "service_ms": 114.35729999979958,
+    "valid": true
+  },
+  {
+    "request_id": 122,
+    "concurrency": 8,
+    "latency_ms": 2196.1739999998827,
+    "service_ms": 117.8682999999728,
+    "valid": true
+  },
+  {
+    "request_id": 123,
+    "concurrency": 8,
+    "latency_ms": 2233.904099999927,
+    "service_ms": 110.89610000001267,
+    "valid": true
+  },
+  {
+    "request_id": 124,
+    "concurrency": 8,
+    "latency_ms": 2251.251900000032,
+    "service_ms": 115.43820000020787,
+    "valid": true
+  },
+  {
+    "request_id": 125,
+    "concurrency": 8,
+    "latency_ms": 2246.3947999998927,
+    "service_ms": 110.58169999998063,
+    "valid": true
+  },
+  {
+    "request_id": 126,
+    "concurrency": 8,
+    "latency_ms": 2285.1325999998953,
+    "service_ms": 118.49270000006072,
+    "valid": true
+  },
+  {
+    "request_id": 127,
+    "concurrency": 8,
+    "latency_ms": 2281.214500000002,
+    "service_ms": 113.1594000000041,
+    "valid": true
+  },
+  {
+    "request_id": 128,
+    "concurrency": 8,
+    "latency_ms": 2299.725600000005,
+    "service_ms": 120.6488000000827,
+    "valid": true
+  },
+  {
+    "request_id": 129,
+    "concurrency": 8,
+    "latency_ms": 2302.438300000038,
+    "service_ms": 122.98029999993742,
+    "valid": true
+  },
+  {
+    "request_id": 130,
+    "concurrency": 8,
+    "latency_ms": 2308.532600000035,
+    "service_ms": 112.10770000005141,
+    "valid": true
+  },
+  {
+    "request_id": 131,
+    "concurrency": 8,
+    "latency_ms": 2355.1436000000685,
+    "service_ms": 120.49459999985993,
+    "valid": true
+  },
+  {
+    "request_id": 132,
+    "concurrency": 8,
+    "latency_ms": 2375.7711000000127,
+    "service_ms": 128.42740000016056,
+    "valid": true
+  },
+  {
+    "request_id": 133,
+    "concurrency": 8,
+    "latency_ms": 2396.1075999999885,
+    "service_ms": 144.5946000001859,
+    "valid": true
+  },
+  {
+    "request_id": 134,
+    "concurrency": 8,
+    "latency_ms": 2424.5737000000663,
+    "service_ms": 142.2679000000935,
+    "valid": true
+  },
+  {
+    "request_id": 135,
+    "concurrency": 8,
+    "latency_ms": 2432.9831000000704,
+    "service_ms": 147.5729000000283,
+    "valid": true
+  },
+  {
+    "request_id": 136,
+    "concurrency": 8,
+    "latency_ms": 2444.1151999998838,
+    "service_ms": 144.11840000003576,
+    "valid": true
+  },
+  {
+    "request_id": 137,
+    "concurrency": 8,
+    "latency_ms": 2450.5811999998987,
+    "service_ms": 147.05709999985993,
+    "valid": true
+  },
+  {
+    "request_id": 138,
+    "concurrency": 8,
+    "latency_ms": 2453.720599999884,
+    "service_ms": 144.86329999985173,
+    "valid": true
+  },
+  {
+    "request_id": 139,
+    "concurrency": 8,
+    "latency_ms": 2509.3537999999244,
+    "service_ms": 153.9057999998331,
+    "valid": true
+  },
+  {
+    "request_id": 140,
+    "concurrency": 8,
+    "latency_ms": 2519.125699999975,
+    "service_ms": 141.61210000002757,
+    "valid": true
+  },
+  {
+    "request_id": 141,
+    "concurrency": 8,
+    "latency_ms": 2547.7650999999605,
+    "service_ms": 151.3534000001382,
+    "valid": true
+  },
+  {
+    "request_id": 142,
+    "concurrency": 8,
+    "latency_ms": 2564.2098000000697,
+    "service_ms": 139.37210000003688,
+    "valid": true
+  },
+  {
+    "request_id": 143,
+    "concurrency": 8,
+    "latency_ms": 2564.751600000076,
+    "service_ms": 131.5708000001032,
+    "valid": true
+  },
+  {
+    "request_id": 144,
+    "concurrency": 8,
+    "latency_ms": 2565.3307999998797,
+    "service_ms": 121.05850000004284,
+    "valid": true
+  },
+  {
+    "request_id": 145,
+    "concurrency": 8,
+    "latency_ms": 2584.2091999999247,
+    "service_ms": 133.14219999988563,
+    "valid": true
+  },
+  {
+    "request_id": 146,
+    "concurrency": 8,
+    "latency_ms": 2588.442000000039,
+    "service_ms": 134.4517000000924,
+    "valid": true
+  },
+  {
+    "request_id": 147,
+    "concurrency": 8,
+    "latency_ms": 2632.282799999928,
+    "service_ms": 122.70669999998063,
+    "valid": true
+  },
+  {
+    "request_id": 148,
+    "concurrency": 8,
+    "latency_ms": 2651.0472999999765,
+    "service_ms": 130.61839999980293,
+    "valid": true
+  },
+  {
+    "request_id": 149,
+    "concurrency": 8,
+    "latency_ms": 2676.5705999999773,
+    "service_ms": 127.6598000000231,
+    "valid": true
+  },
+  {
+    "request_id": 150,
+    "concurrency": 8,
+    "latency_ms": 2683.7915999998804,
+    "service_ms": 119.32869999995455,
+    "valid": true
+  },
+  {
+    "request_id": 151,
+    "concurrency": 8,
+    "latency_ms": 2696.4539999999106,
+    "service_ms": 131.49669999978505,
+    "valid": true
+  },
+  {
+    "request_id": 152,
+    "concurrency": 8,
+    "latency_ms": 2692.063099999912,
+    "service_ms": 126.3418000000529,
+    "valid": true
+  },
+  {
+    "request_id": 153,
+    "concurrency": 8,
+    "latency_ms": 2712.839399999939,
+    "service_ms": 128.40969999996014,
+    "valid": true
+  },
+  {
+    "request_id": 154,
+    "concurrency": 8,
+    "latency_ms": 2708.7938999999315,
+    "service_ms": 120.11300000012852,
+    "valid": true
+  },
+  {
+    "request_id": 155,
+    "concurrency": 8,
+    "latency_ms": 2747.1177000000607,
+    "service_ms": 114.59960000007413,
+    "valid": true
+  },
+  {
+    "request_id": 156,
+    "concurrency": 8,
+    "latency_ms": 2768.148499999894,
+    "service_ms": 116.84040000010282,
+    "valid": true
+  },
+  {
+    "request_id": 157,
+    "concurrency": 8,
+    "latency_ms": 2791.399399999995,
+    "service_ms": 114.5808000001125,
+    "valid": true
+  },
+  {
+    "request_id": 158,
+    "concurrency": 8,
+    "latency_ms": 2799.309099999955,
+    "service_ms": 115.25599999981932,
+    "valid": true
+  },
+  {
+    "request_id": 159,
+    "concurrency": 8,
+    "latency_ms": 2802.472099999897,
+    "service_ms": 110.19659999990836,
+    "valid": true
+  },
+  {
+    "request_id": 160,
+    "concurrency": 8,
+    "latency_ms": 2800.556600000011,
+    "service_ms": 103.88920000009239,
+    "valid": true
+  },
+  {
+    "request_id": 161,
+    "concurrency": 8,
+    "latency_ms": 2814.033800000092,
+    "service_ms": 104.1526999999769,
+    "valid": true
+  },
+  {
+    "request_id": 162,
+    "concurrency": 8,
+    "latency_ms": 2821.9823000000324,
+    "service_ms": 108.91559999994934,
+    "valid": true
+  },
+  {
+    "request_id": 163,
+    "concurrency": 8,
+    "latency_ms": 2875.310000000056,
+    "service_ms": 127.05290000000969,
+    "valid": true
+  },
+  {
+    "request_id": 164,
+    "concurrency": 8,
+    "latency_ms": 2885.2384999999776,
+    "service_ms": 116.86939999996684,
+    "valid": true
+  },
+  {
+    "request_id": 165,
+    "concurrency": 8,
+    "latency_ms": 2907.90280000004,
+    "service_ms": 116.2231000000611,
+    "valid": true
+  },
+  {
+    "request_id": 166,
+    "concurrency": 8,
+    "latency_ms": 2910.436400000006,
+    "service_ms": 110.04249999998137,
+    "valid": true
+  },
+  {
+    "request_id": 167,
+    "concurrency": 8,
+    "latency_ms": 2931.693800000008,
+    "service_ms": 130.2966000000015,
+    "valid": true
+  },
+  {
+    "request_id": 168,
+    "concurrency": 8,
+    "latency_ms": 2915.0552000000607,
+    "service_ms": 111.4401999998372,
+    "valid": true
+  },
+  {
+    "request_id": 169,
+    "concurrency": 8,
+    "latency_ms": 2933.1059000000823,
+    "service_ms": 118.7907000000123,
+    "valid": true
+  },
+  {
+    "request_id": 170,
+    "concurrency": 8,
+    "latency_ms": 2944.470500000054,
+    "service_ms": 120.62239999999292,
+    "valid": true
+  },
+  {
+    "request_id": 171,
+    "concurrency": 8,
+    "latency_ms": 2987.9270999999717,
+    "service_ms": 112.37820000015199,
+    "valid": true
+  },
+  {
+    "request_id": 172,
+    "concurrency": 8,
+    "latency_ms": 3002.411499999929,
+    "service_ms": 116.9035000000149,
+    "valid": true
+  },
+  {
+    "request_id": 173,
+    "concurrency": 8,
+    "latency_ms": 3021.904899999965,
+    "service_ms": 113.76289999997243,
+    "valid": true
+  },
+  {
+    "request_id": 174,
+    "concurrency": 8,
+    "latency_ms": 3019.1003999998793,
+    "service_ms": 108.41910000005737,
+    "valid": true
+  },
+  {
+    "request_id": 175,
+    "concurrency": 8,
+    "latency_ms": 3032.7635999999475,
+    "service_ms": 117.43730000010692,
+    "valid": true
+  },
+  {
+    "request_id": 176,
+    "concurrency": 8,
+    "latency_ms": 3042.8577000000514,
+    "service_ms": 110.875400000019,
+    "valid": true
+  },
+  {
+    "request_id": 177,
+    "concurrency": 8,
+    "latency_ms": 3042.93200000003,
+    "service_ms": 109.6453999998048,
+    "valid": true
+  },
+  {
+    "request_id": 178,
+    "concurrency": 8,
+    "latency_ms": 3063.0783999999985,
+    "service_ms": 118.32439999980852,
+    "valid": true
+  },
+  {
+    "request_id": 179,
+    "concurrency": 8,
+    "latency_ms": 3092.7102000000887,
+    "service_ms": 104.52560000005178,
+    "valid": true
+  },
+  {
+    "request_id": 180,
+    "concurrency": 8,
+    "latency_ms": 3111.8908999999985,
+    "service_ms": 109.17339999997057,
+    "valid": true
+  },
+  {
+    "request_id": 181,
+    "concurrency": 8,
+    "latency_ms": 3134.098400000017,
+    "service_ms": 114.72600000002421,
+    "valid": true
+  },
+  {
+    "request_id": 182,
+    "concurrency": 8,
+    "latency_ms": 3134.942100000102,
+    "service_ms": 112.85330000007525,
+    "valid": true
+  },
+  {
+    "request_id": 183,
+    "concurrency": 8,
+    "latency_ms": 3143.2330000000075,
+    "service_ms": 110.17710000020452,
+    "valid": true
+  },
+  {
+    "request_id": 184,
+    "concurrency": 8,
+    "latency_ms": 3163.3340000000317,
+    "service_ms": 120.24569999985397,
+    "valid": true
+  },
+  {
+    "request_id": 185,
+    "concurrency": 8,
+    "latency_ms": 3159.063400000101,
+    "service_ms": 115.90870000002906,
+    "valid": true
+  },
+  {
+    "request_id": 186,
+    "concurrency": 8,
+    "latency_ms": 3178.211099999957,
+    "service_ms": 114.87590000010096,
+    "valid": true
+  },
+  {
+    "request_id": 187,
+    "concurrency": 8,
+    "latency_ms": 3206.81520000007,
+    "service_ms": 113.76839999994263,
+    "valid": true
+  },
+  {
+    "request_id": 188,
+    "concurrency": 8,
+    "latency_ms": 3235.783800000092,
+    "service_ms": 122.83179999981076,
+    "valid": true
+  },
+  {
+    "request_id": 189,
+    "concurrency": 8,
+    "latency_ms": 3247.3889999999665,
+    "service_ms": 112.97830000007525,
+    "valid": true
+  },
+  {
+    "request_id": 190,
+    "concurrency": 8,
+    "latency_ms": 3255.3596000000834,
+    "service_ms": 118.99520000000484,
+    "valid": true
+  },
+  {
+    "request_id": 191,
+    "concurrency": 8,
+    "latency_ms": 3257.8855000000913,
+    "service_ms": 113.9320000000298,
+    "valid": true
+  },
+  {
+    "request_id": 192,
+    "concurrency": 8,
+    "latency_ms": 3270.2926000000443,
+    "service_ms": 110.97429999988526,
+    "valid": true
+  },
+  {
+    "request_id": 193,
+    "concurrency": 8,
+    "latency_ms": 3276.3601999999955,
+    "service_ms": 112.78390000015497,
+    "valid": true
+  },
+  {
+    "request_id": 194,
+    "concurrency": 8,
+    "latency_ms": 3291.7331999999005,
+    "service_ms": 113.22729999991134,
+    "valid": true
+  },
+  {
+    "request_id": 195,
+    "concurrency": 8,
+    "latency_ms": 3331.844199999934,
+    "service_ms": 124.75890000001527,
+    "valid": true
+  },
+  {
+    "request_id": 196,
+    "concurrency": 8,
+    "latency_ms": 3358.1445999999996,
+    "service_ms": 121.98179999995045,
+    "valid": true
+  },
+  {
+    "request_id": 197,
+    "concurrency": 8,
+    "latency_ms": 3371.4207999999635,
+    "service_ms": 123.74150000000373,
+    "valid": true
+  },
+  {
+    "request_id": 198,
+    "concurrency": 8,
+    "latency_ms": 3397.2091999999247,
+    "service_ms": 141.59820000012405,
+    "valid": true
+  },
+  {
+    "request_id": 199,
+    "concurrency": 8,
+    "latency_ms": 3390.4920000000857,
+    "service_ms": 132.31279999995604,
+    "valid": true
+  },
+  {
+    "request_id": 200,
+    "concurrency": 8,
+    "latency_ms": 3390.536300000036,
+    "service_ms": 118.83400000003166,
+    "valid": true
+  },
+  {
+    "request_id": 201,
+    "concurrency": 8,
+    "latency_ms": 3399.0132999999914,
+    "service_ms": 122.45909999986179,
+    "valid": true
+  },
+  {
+    "request_id": 202,
+    "concurrency": 8,
+    "latency_ms": 3419.119100000011,
+    "service_ms": 127.06949999998324,
+    "valid": true
+  },
+  {
+    "request_id": 203,
+    "concurrency": 8,
+    "latency_ms": 3457.277400000021,
+    "service_ms": 124.0046999999322,
+    "valid": true
+  },
+  {
+    "request_id": 204,
+    "concurrency": 8,
+    "latency_ms": 3474.656399999978,
+    "service_ms": 115.39489999995567,
+    "valid": true
+  },
+  {
+    "request_id": 205,
+    "concurrency": 8,
+    "latency_ms": 3486.0461999999825,
+    "service_ms": 113.49600000004284,
+    "valid": true
+  },
+  {
+    "request_id": 206,
+    "concurrency": 8,
+    "latency_ms": 3506.523899999913,
+    "service_ms": 114.84000000008382,
+    "valid": true
+  },
+  {
+    "request_id": 207,
+    "concurrency": 8,
+    "latency_ms": 3502.9591000000946,
+    "service_ms": 112.18879999988712,
+    "valid": true
+  },
+  {
+    "request_id": 208,
+    "concurrency": 8,
+    "latency_ms": 3513.8259999998845,
+    "service_ms": 116.36609999998473,
+    "valid": true
+  },
+  {
+    "request_id": 209,
+    "concurrency": 8,
+    "latency_ms": 3524.66109999991,
+    "service_ms": 122.29220000002533,
+    "valid": true
+  },
+  {
+    "request_id": 210,
+    "concurrency": 8,
+    "latency_ms": 3541.9213000000454,
+    "service_ms": 121.41560000018217,
+    "valid": true
+  },
+  {
+    "request_id": 211,
+    "concurrency": 8,
+    "latency_ms": 3580.153099999996,
+    "service_ms": 122.29569999990053,
+    "valid": true
+  },
+  {
+    "request_id": 212,
+    "concurrency": 8,
+    "latency_ms": 3595.8009999999776,
+    "service_ms": 120.81579999998212,
+    "valid": true
+  },
+  {
+    "request_id": 213,
+    "concurrency": 8,
+    "latency_ms": 3597.996700000018,
+    "service_ms": 111.76630000001751,
+    "valid": true
+  },
+  {
+    "request_id": 214,
+    "concurrency": 8,
+    "latency_ms": 3620.2719000000507,
+    "service_ms": 117.07970000011846,
+    "valid": true
+  },
+  {
+    "request_id": 215,
+    "concurrency": 8,
+    "latency_ms": 3616.7309000000823,
+    "service_ms": 109.99939999985509,
+    "valid": true
+  },
+  {
+    "request_id": 216,
+    "concurrency": 8,
+    "latency_ms": 3625.7401000000536,
+    "service_ms": 111.64899999997579,
+    "valid": true
+  },
+  {
+    "request_id": 217,
+    "concurrency": 8,
+    "latency_ms": 3635.3619999999646,
+    "service_ms": 110.39100000006147,
+    "valid": true
+  },
+  {
+    "request_id": 218,
+    "concurrency": 8,
+    "latency_ms": 3648.4523000000045,
+    "service_ms": 106.27579999994487,
+    "valid": true
+  },
+  {
+    "request_id": 219,
+    "concurrency": 8,
+    "latency_ms": 3683.1355000000913,
+    "service_ms": 102.72789999982342,
+    "valid": true
+  },
+  {
+    "request_id": 220,
+    "concurrency": 8,
+    "latency_ms": 3719.3617000000086,
+    "service_ms": 123.2546999999322,
+    "valid": true
+  },
+  {
+    "request_id": 221,
+    "concurrency": 8,
+    "latency_ms": 3720.976100000087,
+    "service_ms": 122.07000000006519,
+    "valid": true
+  },
+  {
+    "request_id": 222,
+    "concurrency": 8,
+    "latency_ms": 3744.003999999957,
+    "service_ms": 126.97160000004806,
+    "valid": true
+  },
+  {
+    "request_id": 223,
+    "concurrency": 8,
+    "latency_ms": 3736.5535999999847,
+    "service_ms": 116.03429999994114,
+    "valid": true
+  },
+  {
+    "request_id": 224,
+    "concurrency": 8,
+    "latency_ms": 3748.2371000000276,
+    "service_ms": 122.18599999998696,
+    "valid": true
+  },
+  {
+    "request_id": 225,
+    "concurrency": 8,
+    "latency_ms": 3758.4163999999873,
+    "service_ms": 122.7793000000529,
+    "valid": true
+  },
+  {
+    "request_id": 226,
+    "concurrency": 8,
+    "latency_ms": 3813.0216999999247,
+    "service_ms": 164.27949999994598,
+    "valid": true
+  },
+  {
+    "request_id": 227,
+    "concurrency": 8,
+    "latency_ms": 3827.6957000000402,
+    "service_ms": 144.27710000006482,
+    "valid": true
+  },
+  {
+    "request_id": 228,
+    "concurrency": 8,
+    "latency_ms": 3869.0412999999244,
+    "service_ms": 148.3662999998778,
+    "valid": true
+  },
+  {
+    "request_id": 229,
+    "concurrency": 8,
+    "latency_ms": 3867.5708999999333,
+    "service_ms": 146.32980000018142,
+    "valid": true
+  },
+  {
+    "request_id": 230,
+    "concurrency": 8,
+    "latency_ms": 3862.3952999999747,
+    "service_ms": 125.58810000005178,
+    "valid": true
+  },
+  {
+    "request_id": 231,
+    "concurrency": 8,
+    "latency_ms": 3869.468499999959,
+    "service_ms": 125.26230000006035,
+    "valid": true
+  },
+  {
+    "request_id": 232,
+    "concurrency": 8,
+    "latency_ms": 3876.502499999944,
+    "service_ms": 127.07459999993443,
+    "valid": true
+  },
+  {
+    "request_id": 233,
+    "concurrency": 8,
+    "latency_ms": 3882.220299999928,
+    "service_ms": 123.51980000012554,
+    "valid": true
+  },
+  {
+    "request_id": 234,
+    "concurrency": 8,
+    "latency_ms": 3943.844100000104,
+    "service_ms": 130.49609999987297,
+    "valid": true
+  },
+  {
+    "request_id": 235,
+    "concurrency": 8,
+    "latency_ms": 3958.471799999941,
+    "service_ms": 130.02150000003166,
+    "valid": true
+  },
+  {
+    "request_id": 236,
+    "concurrency": 8,
+    "latency_ms": 3991.9283000000287,
+    "service_ms": 128.52370000001974,
+    "valid": true
+  },
+  {
+    "request_id": 237,
+    "concurrency": 8,
+    "latency_ms": 3988.2631999999285,
+    "service_ms": 120.36970000015572,
+    "valid": true
+  },
+  {
+    "request_id": 238,
+    "concurrency": 8,
+    "latency_ms": 4027.003700000001,
+    "service_ms": 151.23970000003465,
+    "valid": true
+  },
+  {
+    "request_id": 239,
+    "concurrency": 8,
+    "latency_ms": 3998.1477000000887,
+    "service_ms": 127.74240000010468,
+    "valid": true
+  },
+  {
+    "request_id": 240,
+    "concurrency": 8,
+    "latency_ms": 4007.313099999912,
+    "service_ms": 130.3491999998223,
+    "valid": true
+  },
+  {
+    "request_id": 241,
+    "concurrency": 8,
+    "latency_ms": 4019.5753999999724,
+    "service_ms": 131.05180000001565,
+    "valid": true
+  },
+  {
+    "request_id": 242,
+    "concurrency": 8,
+    "latency_ms": 4079.343200000003,
+    "service_ms": 135.22589999996126,
+    "valid": true
+  },
+  {
+    "request_id": 243,
+    "concurrency": 8,
+    "latency_ms": 4082.56389999995,
+    "service_ms": 123.44779999996535,
+    "valid": true
+  },
+  {
+    "request_id": 244,
+    "concurrency": 8,
+    "latency_ms": 4122.207600000082,
+    "service_ms": 132.38229999993928,
+    "valid": true
+  },
+  {
+    "request_id": 245,
+    "concurrency": 8,
+    "latency_ms": 4128.180399999954,
+    "service_ms": 135.99190000002272,
+    "valid": true
+  },
+  {
+    "request_id": 246,
+    "concurrency": 8,
+    "latency_ms": 4136.966000000015,
+    "service_ms": 137.74760000011884,
+    "valid": true
+  },
+  {
+    "request_id": 247,
+    "concurrency": 8,
+    "latency_ms": 4144.054000000004,
+    "service_ms": 136.4551999999676,
+    "valid": true
+  },
+  {
+    "request_id": 248,
+    "concurrency": 8,
+    "latency_ms": 4147.073000000091,
+    "service_ms": 119.88500000000931,
+    "valid": true
+  },
+  {
+    "request_id": 249,
+    "concurrency": 8,
+    "latency_ms": 4157.005700000096,
+    "service_ms": 129.49059999990277,
+    "valid": true
+  },
+  {
+    "request_id": 250,
+    "concurrency": 8,
+    "latency_ms": 4205.227399999974,
+    "service_ms": 124.65259999991395,
+    "valid": true
+  },
+  {
+    "request_id": 251,
+    "concurrency": 8,
+    "latency_ms": 4205.674399999902,
+    "service_ms": 122.88529999996535,
+    "valid": true
+  },
+  {
+    "request_id": 252,
+    "concurrency": 8,
+    "latency_ms": 4244.759400000097,
+    "service_ms": 122.2652999998536,
+    "valid": true
+  },
+  {
+    "request_id": 253,
+    "concurrency": 8,
+    "latency_ms": 4271.777100000065,
+    "service_ms": 143.3939000000246,
+    "valid": true
+  },
+  {
+    "request_id": 254,
+    "concurrency": 8,
+    "latency_ms": 4261.847099999897,
+    "service_ms": 124.62239999999292,
+    "valid": true
+  },
+  {
+    "request_id": 255,
+    "concurrency": 8,
+    "latency_ms": 4266.713199999882,
+    "service_ms": 122.41899999999441,
+    "valid": true
+  },
+  {
+    "request_id": 256,
+    "concurrency": 8,
+    "latency_ms": 4270.728099999949,
+    "service_ms": 123.42450000019744,
+    "valid": true
+  },
+  {
+    "request_id": 257,
+    "concurrency": 8,
+    "latency_ms": 4286.998499999987,
+    "service_ms": 129.78139999997802,
+    "valid": true
+  },
+  {
+    "request_id": 258,
+    "concurrency": 8,
+    "latency_ms": 4321.846699999878,
+    "service_ms": 116.41379999998026,
+    "valid": true
+  },
+  {
+    "request_id": 259,
+    "concurrency": 8,
+    "latency_ms": 4320.428099999903,
+    "service_ms": 114.47080000001006,
+    "valid": true
+  },
+  {
+    "request_id": 260,
+    "concurrency": 8,
+    "latency_ms": 4358.091800000053,
+    "service_ms": 112.90740000014193,
+    "valid": true
+  },
+  {
+    "request_id": 261,
+    "concurrency": 8,
+    "latency_ms": 4380.937200000044,
+    "service_ms": 118.82640000013635,
+    "valid": true
+  },
+  {
+    "request_id": 262,
+    "concurrency": 8,
+    "latency_ms": 4394.193599999882,
+    "service_ms": 127.16540000005625,
+    "valid": true
+  },
+  {
+    "request_id": 263,
+    "concurrency": 8,
+    "latency_ms": 4400.685599999968,
+    "service_ms": 129.7092999999877,
+    "valid": true
+  },
+  {
+    "request_id": 264,
+    "concurrency": 8,
+    "latency_ms": 4395.690399999963,
+    "service_ms": 123.65589999989606,
+    "valid": true
+  },
+  {
+    "request_id": 265,
+    "concurrency": 8,
+    "latency_ms": 4419.011399999959,
+    "service_ms": 131.74579999991693,
+    "valid": true
+  },
+  {
+    "request_id": 266,
+    "concurrency": 8,
+    "latency_ms": 4465.415000000037,
+    "service_ms": 144.55970000009984,
+    "valid": true
+  },
+  {
+    "request_id": 267,
+    "concurrency": 8,
+    "latency_ms": 4459.366399999941,
+    "service_ms": 137.1753000000026,
+    "valid": true
+  },
+  {
+    "request_id": 268,
+    "concurrency": 8,
+    "latency_ms": 4500.133499999996,
+    "service_ms": 141.7119999998249,
+    "valid": true
+  },
+  {
+    "request_id": 269,
+    "concurrency": 8,
+    "latency_ms": 4522.333799999906,
+    "service_ms": 141.0301000000909,
+    "valid": true
+  },
+  {
+    "request_id": 270,
+    "concurrency": 8,
+    "latency_ms": 4534.932299999986,
+    "service_ms": 139.46970000001602,
+    "valid": true
+  },
+  {
+    "request_id": 271,
+    "concurrency": 8,
+    "latency_ms": 4541.116500000004,
+    "service_ms": 144.07909999997355,
+    "valid": true
+  },
+  {
+    "request_id": 272,
+    "concurrency": 8,
+    "latency_ms": 4549.8574999999255,
+    "service_ms": 148.90339999995194,
+    "valid": true
+  },
+  {
+    "request_id": 273,
+    "concurrency": 8,
+    "latency_ms": 4548.383699999889,
+    "service_ms": 128.0087000001222,
+    "valid": true
+  },
+  {
+    "request_id": 274,
+    "concurrency": 8,
+    "latency_ms": 4595.685099999886,
+    "service_ms": 136.01929999981076,
+    "valid": true
+  },
+  {
+    "request_id": 275,
+    "concurrency": 8,
+    "latency_ms": 4593.996400000062,
+    "service_ms": 128.34660000004806,
+    "valid": true
+  },
+  {
+    "request_id": 276,
+    "concurrency": 8,
+    "latency_ms": 4620.061800000025,
+    "service_ms": 119.63550000009127,
+    "valid": true
+  },
+  {
+    "request_id": 277,
+    "concurrency": 8,
+    "latency_ms": 4631.253499999875,
+    "service_ms": 108.06210000021383,
+    "valid": true
+  },
+  {
+    "request_id": 278,
+    "concurrency": 8,
+    "latency_ms": 4648.318399999989,
+    "service_ms": 113.1284999998752,
+    "valid": true
+  },
+  {
+    "request_id": 279,
+    "concurrency": 8,
+    "latency_ms": 4648.303000000073,
+    "service_ms": 106.84990000003017,
+    "valid": true
+  }
+]

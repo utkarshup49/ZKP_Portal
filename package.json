@@ -11,7 +11,11 @@
     "gen:sample": "npm run compile:lib && node scripts/generate-sample-data.cjs",
     "reset:chain": "npm run compile:lib && node scripts/seed-chain.cjs",
     "check:e2e": "npm run compile:lib && node scripts/e2e-check.cjs",
-    "check:http": "npm run compile:lib && node scripts/integration-check.cjs"
+    "check:http": "npm run compile:lib && node scripts/integration-check.cjs",
+    "check:stark": "node benchmarks/validate-stark.cjs",
+    "benchmark:stark": "node --expose-gc benchmarks/stark-benchmark.cjs",
+    "benchmark:stark:quick": "node --expose-gc benchmarks/stark-benchmark.cjs --quick",
+    "benchmark:figures": "node benchmarks/render-figures.cjs"
   },
   "dependencies": {
     "next": "^14.2.5",
@@ -20,11 +24,13 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@guildofweavers/genstark": "^0.7.6",
     "@types/node": "^20.14.10",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.39",
+    "sharp": "^0.35.5",
     "tailwindcss": "^3.4.6",
     "typescript": "^5.5.3"
   }

@@ -21,6 +21,11 @@ npm run dev
 Open <http://localhost:3000>. That is the whole setup — no database, no Docker,
 no external services, no chain.
 
+Publication benchmark artefacts live in [`benchmarks/`](benchmarks/). They use
+a real FRI STARK backend and include raw run-level data plus SVG, PNG, and PDF
+figures; see [`benchmarks/README.md`](benchmarks/README.md) for the exact scope
+and reproducibility notes.
+
 Optional utilities:
 
 | Command | Does |
