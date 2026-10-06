@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: >-
+  ZKP Portal: a reference implementation of blockchain-integrated
+  zk-STARK credential verification
+message: >-
+  If you use this software, please cite both the software (this record)
+  and the accompanying paper.
+type: software
+authors:
+  - family-names: Goyal
+    given-names: Jitendra
+    affiliation: Birla Institute of Technology, Mesra
+    email: erjgoyal@gmail.com
+  - family-names: Pareek
+    given-names: Utkarsh
+    affiliation: Birla Institute of Technology, Mesra
+    email: utkarshpareekss@gmail.com
+  - family-names: Saxena
+    given-names: Shantnu
+    affiliation: Birla Institute of Technology, Mesra
+  - family-names: Benjamin
+    given-names: Arpit
+    affiliation: Birla Institute of Technology, Mesra
+repository-code: 'https://github.com/utkarshup49/ZKP_Portal'
+abstract: >-
+  Reference implementation of a decentralized credential verification
+  framework using blockchain-integrated zk-STARKs, together with the
+  benchmark harness and raw per-run measurements reported in the
+  accompanying paper.
+keywords:
+  - zero-knowledge proofs
+  - zk-STARK
+  - verifiable credentials
+  - blockchain
+  - privacy-preserving authentication
+license: MIT
+version: 1.0.0
+date-released: '2026-10-06'
